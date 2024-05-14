@@ -1,0 +1,9 @@
+Funcionalidade: Cadastrar de Usuário
+  Como um Usuário
+  Eu quero registrar minha conta
+  Para que eu possa logá-la e usar o aplicativo
+
+Critério de Avaliação: Registro de usuário com sucesso
+  Dado que estou na tela de cadastro
+  Quando eu colocar minhas informações e apertar o botão de "cadastrar"
+  Eu quero receber um e-mail de confirmação
